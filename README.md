@@ -8,7 +8,8 @@ https://github.com/DevDungeon/BlinkyLEDArduinoLibrary
 
 ## Packaging
 
-Just zip up all the contents a .zip.
+Just zip up all the contents a .zip
+or download this repository as a .zip from GitHub.
 
 ## Using library
 
